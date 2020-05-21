@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-react-helmet-canonical-urls-easy",
   "description": "Add canonical links to HTML pages without any configuration.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "Kieran Colford <kieran@kcolford.com>",
   "homepage": "https://github.com/kcolford/gatsby-plugin-react-helmet-canonical-urls-easy",
