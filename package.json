@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "license": "MIT",
   "author": "Kieran Colford <kieran@kcolford.com>",
-  "homepage": "https://github.com/kcolford/new-website/tree/master/plugins/gatsby-plugin-react-helmet-canonical-urls-easy",
+  "homepage": "https://github.com/kcolford/gatsby-plugin-react-helmet-canonical-urls-easy",
   "keywords": [
     "gatsby",
     "gatsby-plugin"
@@ -27,6 +27,6 @@
     "prettier": "^2.0.5"
   },
   "scripts": {
-    "format": "prettier --write \"**.{{j,t}s{,x},json}\""
+    "format": "prettier --write \"**.{js,jsx,ts,tsx,json}\""
   }
 }
