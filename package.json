@@ -11,7 +11,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "prop-types": "^15.0.0"
+    "prop-types": "^15.8.1"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0",
